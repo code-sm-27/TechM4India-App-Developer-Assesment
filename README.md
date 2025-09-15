@@ -4,7 +4,7 @@ This is the submission for the practical assignment.
 
 ## Live Application URL
 
-[Paste your S3 Website URL here]
+(http://techm4india-submission-shivamaniburgu.s3-website-us-east-1.amazonaws.com)
 
 ## Description
 
